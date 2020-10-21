@@ -1,11 +1,11 @@
 {
 	"dev": true,
 	"port": 8080,
-	"bots": 0,
+	"bots": 3,
 	"consts": {
 		"GRID_COUNT": 100,
 		"CELL_WIDTH": 40,
-		"SPEED": 10,
+		"SPEED": 5,
 		"BORDER_WIDTH": 20,
 		"MAX_PLAYERS": 30,
 		"NEW_PLAYER_LAG": 60,
